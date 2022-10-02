@@ -21,15 +21,12 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 
 ## Sites created using this template
 
-* [Pilotmail.io](https://pilotmail.io)
-* [Routepath.app](https://routepath.app)
-* [LedgerSight.com](https://ledgersight.com)
 * [AnonAddy.com](https://anonaddy.com)
 * [MentorCV.com](https://mentorcv.com)
-* [MakerMetrics.co](https://makermetrics.co)
 * [Nodewood.com](https://nodewood.com)
 * [X-Wing AI](https://xwing.app)
-* [Scholarship Spy](https://scholarshipspy.com)
+* [Auto-Swiper](https://www.auto-swiper.ch)
+* [Hosted Git](https://hosted-git.com/)
 
 ## Bugs and Issues
 
@@ -54,4 +51,4 @@ Free for personal and commercial purpose with attribution
 
 ## Copyright and License
 
-Copyright 2018-2020 Astrava.Solutions Ltd. Code released under the MIT license.
+Copyright 2018-2022 Astrava.Solutions Ltd. Code released under the MIT license.
